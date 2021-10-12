@@ -100,7 +100,6 @@ h1, h2, h3, h4, h5,
 	right: 0;
 	overflow-y: hidden;
 	z-index: 1001;
-	background: #a27d69;
 	background: url(../images/aside.png) no-repeat right top #a27d69;
 	@include transition(.5s);
 	@include media-breakpoint-up(lg){
